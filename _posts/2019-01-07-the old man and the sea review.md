@@ -6,11 +6,8 @@ categories: "Reviews"
 ---
 
 #TEST Title
-
-<a href="#summery">gotosummery</a><br>
-
-
 <br>
+<a href="#summery">요약</a><br>
 asdf<br>
 asdf<br>
 asdf<br>
